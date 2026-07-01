@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "com.xunho.vela.calculator",
+    "restype": "quick_app",
+    "name": "寻塔计算器",
+    "description": "简洁美观，抬腕即算。支持分式根式化简，支持更多计算功能。",
+    "preview": [
+      "media/小米手环寻塔计算器图-1@1x.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/小米手环寻塔计算器图-1@1x.png",
+    "author": [
+      {
+        "name": "可爱小何Xunho",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "赞赏我",
+      "url": "https://ifdian.net/a/xunho",
+      "icon": "coins"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "v1.2.0",
+      "file_name": "downloads/com.xunho.vela.calculator.release.1.2.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "v1.2.0",
+      "file_name": "downloads/com.xunho.vela.calculator.release.1.2.0.rpk"
+    }
+  },
+  "ext": {}
+}
